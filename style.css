@@ -133,7 +133,7 @@ form button:hover{
 footer {
     text-align: center;
 }
-@media screen and (width:320px) {
+@media screen and (max-width:320px) {
   body {
     max-height:100vh;
   }
@@ -179,7 +179,7 @@ footer {
         padding-top: 8px;
       }    
 }
-@media screen and (width:768px)
+@media screen and (max-width:768px)
 {
   .wrapper {
     width:734px;
